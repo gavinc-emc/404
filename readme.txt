@@ -106,6 +106,6 @@
 
 9.  To test your 404 page, visit: yourdomain.com/[somerandomwordshere]
 
-10. Confirm 404 page returns an actual HTTP 404 status code (i.e. not 200/301/302)
+10. Confirm 404 page returns an HTTP 404 status code (i.e. not 200/301/302)
 	
     Tip: Use this Chrome plugin: Redirect Path - https://chrome.google.com/webstore/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll?hl=en
